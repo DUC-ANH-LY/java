@@ -37,6 +37,7 @@ public class DemoSecurityConfig {
         return new InMemoryUserDetailsManager(john, mary, susan);
     }
 
+
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
 
