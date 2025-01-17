@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/164. Generics Part 1/164. Generics Part 1.iml" filepath="$PROJECT_DIR$/164. Generics Part 1/164. Generics Part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/165. Generics Part 2/165. Generics Part 2.iml" filepath="$PROJECT_DIR$/165. Generics Part 2/165. Generics Part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/166. Generics Part 3/166. Generics Part 3.iml" filepath="$PROJECT_DIR$/166. Generics Part 3/166. Generics Part 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics.iml" filepath="$PROJECT_DIR$/Generics.iml" />
+    </modules>
+  </component>
+</project>
