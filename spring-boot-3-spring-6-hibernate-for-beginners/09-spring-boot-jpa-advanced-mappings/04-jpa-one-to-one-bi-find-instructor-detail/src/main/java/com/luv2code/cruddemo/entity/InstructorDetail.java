@@ -30,7 +30,7 @@ public class InstructorDetail {
     private String hobby;
 
     // add @OneToOne annotation
-    @OneToOne(mappedBy = "instructorDetail", cascade = CascadeType.ALL)
+    @OneToOne(mappedBy = "instructorDetail1", cascade = CascadeType.ALL)
     private Instructor instructor;
 
     public InstructorDetail() {

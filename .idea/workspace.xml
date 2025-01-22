@@ -4,7 +4,187 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff834167-53cd-45b8-8bcd-039d01e52942" name="Changes" comment="" />
+    <list default="true" id="ff834167-53cd-45b8-8bcd-039d01e52942" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring Tutorial/1.tutorials_point/demo/src/Beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_core/Annotation/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_core/Annotation/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_core/Annotation/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_core/Annotation/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookMyMovie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/ClientServer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/src/dev/lpa/client/SimpleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/src/dev/lpa/server/MultiThreadedSimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientServer/src/dev/lpa/server/SimpleServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/164. Generics Part 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/GenericClassChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/Layer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/Mappable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/Park.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/out/production/GenericClassChallenge/dev/lpa/River.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/src/dev/lpa/Layer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/src/dev/lpa/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/src/dev/lpa/Mappable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/src/dev/lpa/Park.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/GenericClassChallenge/src/dev/lpa/River.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/164. Generics Part 1/Slides-Generics-Generics-Part-1.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/165. Generics Part 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/Generics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/BaseballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/BaseballTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/FootballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/SportsTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/out/production/Generics/dev/lpa/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/src/dev/lpa/BaseballTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/src/dev/lpa/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/src/dev/lpa/SportsTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Generics/src/dev/lpa/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/165. Generics Part 2/Slides-Generics-Generics-Part-2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/166. Generics Part 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/Generics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/Affiliation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/BaseballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/BaseballTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/FootballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/SportsTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/out/production/Generics/dev/lpa/VolleyballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/src/dev/lpa/BaseballTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/src/dev/lpa/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/src/dev/lpa/SportsTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Generics/src/dev/lpa/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/166. Generics Part 3/Slides-Generics-Generics-Part-3.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/test/out/production/test/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My-Blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/.idea/Refection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/org/geeksforgeeks/write/Emp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/org/geeksforgeeks/write/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/.idea/Refection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/org/geeksforgeeks/write/Emp$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/org/geeksforgeeks/write/Emp$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/org/geeksforgeeks/write/Emp$MyAnno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/org/geeksforgeeks/write/Emp$Week.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/org/geeksforgeeks/write/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/org/geeksforgeeks/write/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/out/production/Refection/viblo/Girl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Refection/viblo/Girl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Tutorial/1.tutorials_point/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Tutorial/1.tutorials_point/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring secure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/Banking.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/out/production/Banking/com/timbuchalka/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/out/production/Banking/com/timbuchalka/BankAccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/out/production/Banking/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/src/com/timbuchalka/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/src/com/timbuchalka/BankAccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io file and unit test/introduction to unit testing with JUnit/src/com/timbuchalka/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-spring-boot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies-spring-boot-rest-api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/Layer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/Mappable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/Park.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/164. Generics Part 1/dev/lpa/River.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/BaseballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/BaseballTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/FootballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/SportsTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/165. Generics Part 2/dev/lpa/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/Affiliation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/BaseballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/BaseballTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/FootballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/SportsTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/166. Generics Part 3/dev/lpa/VolleyballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClientServer/dev/lpa/client/SimpleClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClientServer/dev/lpa/server/MultiThreadedSimpleServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClientServer/dev/lpa/server/SimpleServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-starterkit-mysql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,39 +204,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MultiThreadedSimpleServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MycoolappApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleClient.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Shell Script.mvnw.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/learn/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MultiThreadedSimpleServer.executor": "Run",
+    "Application.MycoolappApplication.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.mvnw.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/v004602/Desktop/learn_java/java_core/Equals",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="D:\learn\java\io file and unit test\introduction to unit testing with JUnit\src\com\timbuchalka" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="learn_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mvnw" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -72,12 +263,17 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
@@ -92,6 +288,7 @@
       <workItem from="1729180838945" duration="3558000" />
       <workItem from="1729218579061" duration="2692000" />
       <workItem from="1729221746950" duration="356000" />
+      <workItem from="1737101376638" duration="204000" />
     </task>
     <servers />
   </component>

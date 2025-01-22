@@ -9,6 +9,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+import java.util.List;
+
 @SpringBootApplication
 public class CruddemoApplication {
 
@@ -45,7 +47,16 @@ public class CruddemoApplication {
 		Instructor tempInstructor = appDAO.findInstructorById(theId);
 
 		System.out.println("tempInstructor: " + tempInstructor);
-		System.out.println("the associated courses: " + tempInstructor.getCourses());
+		List<Object[]> test = appDAO.findCourseByInstructorId(theId);
+		for (Object[] row : test) {
+			// Extract each column from the Object array
+			Integer id = (Integer) row[0]; // Assuming the first column is "id"
+			String name = (String) row[1]; // Assuming the second column is "name"
+
+			// Print or process the data
+			System.out.println("Course ID: " + id + ", Course Name: " + name);
+		}
+		System.out.println("the associated courses: " + appDAO.findCourseByInstructorId(theId));
 
 		System.out.println("Done!");
 	}
