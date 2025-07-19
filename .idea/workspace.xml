@@ -4,11 +4,87 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff834167-53cd-45b8-8bcd-039d01e52942" name="Changes" comment="" />
+    <list default="true" id="ff834167-53cd-45b8-8bcd-039d01e52942" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My-Blog" beforeDir="false" afterPath="$PROJECT_DIR$/My-Blog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My-Blog/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/My-Blog/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/Carousel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/ExploreTopBooks.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/Heros.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/LibraryServices.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 10. Home Page Static Files/ReturnBook.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 13. Search Books Page Static Files/Pagination.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 13. Search Books Page Static Files/SearchBook.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 13. Search Books Page Static Files/SearchBooksPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 15. Book Checkout Static Files/BookCheckoutPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 15. Book Checkout Static Files/CheckoutAndReviewBox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 15. Book Checkout Static Files/StarsReview.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 16. Reviews Static Files/LatestReviews.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 16. Reviews Static Files/Review.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 23. Leave a Review Static Files/LeaveAReview.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 24. Review List Page Static Files/ReviewListPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 25. Shelf Page Static Files/Loans.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 25. Shelf Page Static Files/LoansModal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 25. Shelf Page Static Files/ShelfPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 26. History Page Static Files/HistoryPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 27. Library Services Static Files/Messages.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 27. Library Services Static Files/MessagesPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 27. Library Services Static Files/PostNewMessage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 28. Manage Library Services Static Files/AdminMessage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 28. Manage Library Services Static Files/AdminMessages.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 28. Manage Library Services Static Files/ManageLibraryPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 29. Add new book Static Files/AddNewBook.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 30. Change Quantity Static Files/ChangeQuantityOfBook.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/Static HTML:CSS Files/Section 30. Change Quantity Static Files/ChangeQuantityOfBooks.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/source-code/02-backend/spring-boot-library/spring-boot-library/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/source-code/02-backend/spring-boot-library/spring-boot-library/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/source-code/03-frontend/react-library/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot/source-code/03-frontend/react-library/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-spring-boot" beforeDir="false" afterPath="$PROJECT_DIR$/java-spring-boot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-spring-boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-spring-boot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-spring-boot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java-spring-boot/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsp/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jsp/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies-spring-boot-rest-api" beforeDir="false" afterPath="$PROJECT_DIR$/movies-spring-boot-rest-api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies-spring-boot-rest-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movies-spring-boot-rest-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/04-jobportal-registration-repositories-and-controllers/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/04-jobportal-registration-repositories-and-controllers/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/05-jobportal-registration-register-new-user/src/main/java/com/luv2code/jobportal/entity/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/05-jobportal-registration-register-new-user/src/main/java/com/luv2code/jobportal/entity/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/05-jobportal-registration-register-new-user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/05-jobportal-registration-register-new-user/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/06-jobportal-registration-user-profiles-for-recruiter-and-job-seeker/src/main/java/com/luv2code/jobportal/entity/Skills.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/06-jobportal-registration-user-profiles-for-recruiter-and-job-seeker/src/main/java/com/luv2code/jobportal/entity/Skills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/06-jobportal-registration-user-profiles-for-recruiter-and-job-seeker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/06-jobportal-registration-user-profiles-for-recruiter-and-job-seeker/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/07-jobportal-registration-add-skills-and-update-profiles/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-03-registration/07-jobportal-registration-add-skills-and-update-profiles/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/01-job-portal-login-logout-basic-setup/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/01-job-portal-login-logout-basic-setup/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/02-job-portal-login-logout-custom-user-authentication-and-authorization/src/main/java/com/luv2code/jobportal/util/CustomUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/02-job-portal-login-logout-custom-user-authentication-and-authorization/src/main/java/com/luv2code/jobportal/util/CustomUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/02-job-portal-login-logout-custom-user-authentication-and-authorization/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/02-job-portal-login-logout-custom-user-authentication-and-authorization/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/03-job-portal-login-logout-custom-authentication-success-handler/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/03-job-portal-login-logout-custom-authentication-success-handler/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/04-job-portal-login-logout-security-and-dashboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/04-job-portal-login-logout-security-and-dashboard/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/05-job-portal-login-logout-request-mappings/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-3-project-job-portal-web-app/section-04-login-logout/05-job-portal-login-logout-request-mappings/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-learning" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/BubbleSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/BubbleSortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/QuicksortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/QuicksortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/SortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/SortAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/VeryComplexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-learning/basic-dependency-loosely-coupled/src/main/java/me/loda/spring/looselycoupled/VeryComplexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-learning/spring-boot-1-helloworld-@Component-@Autowired/src/main/java/me/loda/spring/helloworld/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-learning/spring-boot-1-helloworld-@Component-@Autowired/src/main/java/me/loda/spring/helloworld/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,39 +100,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MultiThreadedSimpleServer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MycoolappApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleClient.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Shell Script.mvnw.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/learn/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MultiThreadedSimpleServer.executor": "Run",
+    "Application.MycoolappApplication.executor": "Run",
+    "Application.SimpleClient.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.mvnw.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/learn/java/Spring Tutorial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learn\java" />
       <recent name="D:\learn\java\io file and unit test\introduction to unit testing with JUnit\src\com\timbuchalka" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mvnw" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -92,6 +182,7 @@
       <workItem from="1729180838945" duration="3558000" />
       <workItem from="1729218579061" duration="2692000" />
       <workItem from="1729221746950" duration="356000" />
+      <workItem from="1748535094767" duration="174000" />
     </task>
     <servers />
   </component>

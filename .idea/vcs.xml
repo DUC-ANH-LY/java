@@ -2,6 +2,15 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BookMyMovie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/My-Blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring secure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fullstack-react-and-springboot-main/fullstack-react-and-springboot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/movies-spring-boot-rest-api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-boot-3-spring-6-hibernate-for-beginners" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-starterkit-mysql" vcs="Git" />
   </component>
 </project>
